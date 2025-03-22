@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AZURELease")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3a6987c9a5a22310e6fb8fec83459005efca359")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+602f7f34acfb4335e59fa595babacae7bc431ec8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AZURELease")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AZURELease")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
