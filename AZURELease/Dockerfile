@@ -1,4 +1,4 @@
-# STAGE 1: Build
+﻿# STAGE 1: Build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
 WORKDIR /app
 
@@ -9,7 +9,7 @@ RUN dotnet restore ./AZURELease.csproj
 # Copia tutto il progetto
 COPY . ./
 
-# Compila in modalit� Release
+# Compila in modalità Release
 RUN dotnet publish ./AZURELease.csproj -c Release -o out
 
 # STAGE 2: Runtime
