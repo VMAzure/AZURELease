@@ -1,20 +1,23 @@
-# STAGE 1: build
+# STAGE 1: Build
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
 
-# Copia solo il file di progetto per fare restore
-COPY AZURELease.csproj .
+# Copia il file .csproj
+COPY AZURELease.csproj ./
 
-RUN dotnet restore AZURELease.csproj
+# Ripristina i pacchetti
+RUN dotnet restore ./AZURELease.csproj
 
-# Ora copia tutto
+# Copia tutti i file di progetto
 COPY . .
 
-# Pubblica il progetto in modalità Release
-RUN dotnet publish -c Release -o /app/out
+# Pubblica il progetto
+RUN dotnet publish ./AZURELease.csproj -c Release -o /app/out
 
-# STAGE 2: runtime
-FROM mcr.microsoft.com/dotnet/aspnet:7.0
+# STAGE 2: Runtime
+FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS runtime
 WORKDIR /app
 COPY --from=build /app/out .
+
+# Avvio
 ENTRYPOINT ["dotnet", "AZURELease.dll"]
