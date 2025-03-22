@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimenti.css",
+      "PackagePath": "staticwebassets\\css\\inserimenti.css"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimento_usato.css",
+      "PackagePath": "staticwebassets\\css\\inserimento_usato.css"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimento_usato_conferma.css",
+      "PackagePath": "staticwebassets\\css\\inserimento_usato_conferma.css"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\index.html",
+      "PackagePath": "staticwebassets\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimenti.html",
+      "PackagePath": "staticwebassets\\html\\inserimenti.html"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimento_usato.html",
+      "PackagePath": "staticwebassets\\html\\inserimento_usato.html"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimento_usato_conferma.html",
+      "PackagePath": "staticwebassets\\html\\inserimento_usato_conferma.html"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\navbar.html",
+      "PackagePath": "staticwebassets\\html\\navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\sidebar.html",
+      "PackagePath": "staticwebassets\\html\\sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\global.js",
+      "PackagePath": "staticwebassets\\js\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimenti.js",
+      "PackagePath": "staticwebassets\\js\\inserimenti.js"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimento_usato.js",
+      "PackagePath": "staticwebassets\\js\\inserimento_usato.js"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimento_usato_conferma.js",
+      "PackagePath": "staticwebassets\\js\\inserimento_usato_conferma.js"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\sidebar.js",
+      "PackagePath": "staticwebassets\\js\\sidebar.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AZURELease.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AZURELease.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AZURELease.props",
+      "PackagePath": "build\\AZURELease.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AZURELease.props",
+      "PackagePath": "buildMultiTargeting\\AZURELease.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AZURELease.props",
+      "PackagePath": "buildTransitive\\AZURELease.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

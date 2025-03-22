@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <div class="topbar">
+        <h2><span class="az-bold">AZ</span><span class="core-light">LEASE</span></h2>
+        <div class="mobile-menu-icon" onclick="toggleMenu()">☰</div>
+    </div>
+
+    <div class="dropdown-menu" id="mobileMenu">
+        <a href="#" id="menuVetrinaMobile">Vetrina</a>
+        <a href="#" id="menuOpzioniMobile">Opzioni</a>
+        <a href="#" id="menuOrdiniMobile">Ordini</a>
+        <a href="inserimenti.html" id="menuInserimentiMobile">Inserimenti</a>
+        <a href="#" id="menuVariazioniMobile">Variazioni</a>
+        <a href="#" id="menuImpostazioniMobile">Impostazioni</a>
+        <a href="#" onclick="handleLogout(); return false;">Logout</a>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const token = localStorage.getItem("jwt");
+
+            if (token) {
+                document.querySelectorAll("a").forEach(link => {
+                    if (link.href && link.href.includes("html")) { // 🔹 Solo i link interni
+                        const url = new URL(link.href, window.location.origin);
+                        url.searchParams.set("token", token);
+                        link.href = url.toString();
+                    }
+                });
+            }
+        });
+    </script>
+
+
+</body>
+</html>

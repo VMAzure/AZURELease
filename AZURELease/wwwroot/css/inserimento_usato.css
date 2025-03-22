@@ -1,0 +1,135 @@
+﻿body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #121212;
+    color: #00213b;
+}
+
+h1, h2 {
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.logo-marca {
+    transition: transform 0.2s, filter 0.2s;
+    max-height: 100px;
+    object-fit: contain;
+}
+
+    .logo-marca:hover {
+        transform: scale(1.1);
+        filter: brightness(1.2);
+    }
+
+    /* Logo selezionato */
+    .logo-marca.selected {
+        border: 3px solid #0d6efd;
+        border-radius: 10px;
+        padding: 4px;
+        background-color: rgba(13, 110, 253, 0.1);
+    }
+
+#marcheGrid .col {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #ffffff; /* Sfondo bianco */
+    transition: background-color 0.3s;
+    text-align: center;
+}
+
+    /* Hover */
+    #marcheGrid .col:hover {
+        box-shadow: 0 0 0 2px #0d6efd22;
+    }
+
+
+    /* Nome della marca sotto al logo */
+    #marcheGrid .col div {
+        margin-top: 8px;
+        font-size: 14px;
+        color: #00213b;
+    }
+
+    #marcheGrid.fade-out {
+        opacity: 0;
+        transition: opacity 0.3s ease-out;
+    }
+
+
+.container {
+    margin-top: 2rem;
+}
+
+/* Gruppo modello - header cliccabile */
+.gruppo-header {
+    background-color: #f8f9fa;
+    padding: 10px 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+    transition: background-color 0.2s ease-in-out;
+}
+
+    .gruppo-header:hover {
+        background-color: #e2e6ea;
+    }
+
+/* Varianti container (animazione toggle) */
+.varianti-toggle {
+    overflow: hidden;
+    transition: max-height 0.4s ease, opacity 0.4s ease;
+    opacity: 1;
+    max-height: 1000px;
+}
+
+    .varianti-toggle.d-none {
+        opacity: 0;
+        max-height: 0;
+    }
+
+/* Card variante */
+.modello-card {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+    .modello-card:hover {
+        background-color: white;
+        color: #00213b; /* migliora contrasto sul blu scuro */
+        font-weight: bold;
+        transform: scale(1.02);
+        border-color: #00213b;
+    }
+.versione-card {
+    transition: all 0.2s ease-in-out;
+    border: 2px solid transparent;
+}
+
+    .versione-card:hover {
+        background-color: white;
+        color: #00213b; /* migliora contrasto sul blu scuro */
+        font-weight: bold;
+        transform: scale(1.02);
+        border-color: #00213b;
+    }
+
+.loader-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1050; /* sopra tutto */
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3); /* sfondo opaco */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

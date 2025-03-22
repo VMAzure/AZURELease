@@ -1,0 +1,220 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/css/inserimenti.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\inserimenti.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jTm8Bh8gS3/rmJtuuQaUsCeT\u002Bcv5Mvpw60reQS6rKe8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1464"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jTm8Bh8gS3/rmJtuuQaUsCeT\u002Bcv5Mvpw60reQS6rKe8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 08:54:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/css/inserimenti.rih3j21sve.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\inserimenti.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rih3j21sve"},{"Name":"integrity","Value":"sha256-jTm8Bh8gS3/rmJtuuQaUsCeT\u002Bcv5Mvpw60reQS6rKe8="},{"Name":"label","Value":"_content/AZURELease/css/inserimenti.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1464"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jTm8Bh8gS3/rmJtuuQaUsCeT\u002Bcv5Mvpw60reQS6rKe8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 08:54:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/css/inserimento_usato.1djxk24yd2.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\inserimento_usato.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1djxk24yd2"},{"Name":"integrity","Value":"sha256-u4MMgaxb/UjYsLbfAfYjv9uz0lovf/e79Wd3UgbRVOE="},{"Name":"label","Value":"_content/AZURELease/css/inserimento_usato.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2950"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022u4MMgaxb/UjYsLbfAfYjv9uz0lovf/e79Wd3UgbRVOE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 11:48:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/css/inserimento_usato.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\inserimento_usato.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u4MMgaxb/UjYsLbfAfYjv9uz0lovf/e79Wd3UgbRVOE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2950"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022u4MMgaxb/UjYsLbfAfYjv9uz0lovf/e79Wd3UgbRVOE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 11:48:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/css/inserimento_usato_conferma.7woo38ysdd.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\inserimento_usato_conferma.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7woo38ysdd"},{"Name":"integrity","Value":"sha256-\u002BUic9FZ2sFSTbQN8Iw8TiPOpHx0GXet0\u002BEEaD5n69xg="},{"Name":"label","Value":"_content/AZURELease/css/inserimento_usato_conferma.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"858"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BUic9FZ2sFSTbQN8Iw8TiPOpHx0GXet0\u002BEEaD5n69xg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 13:01:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/css/inserimento_usato_conferma.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\inserimento_usato_conferma.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BUic9FZ2sFSTbQN8Iw8TiPOpHx0GXet0\u002BEEaD5n69xg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"858"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BUic9FZ2sFSTbQN8Iw8TiPOpHx0GXet0\u002BEEaD5n69xg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 13:01:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/css/menu.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\menu.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VfTJU1eApK9lYbVy7KuTp23YUgOb4X59AyTUkPNcfKk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1010"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VfTJU1eApK9lYbVy7KuTp23YUgOb4X59AyTUkPNcfKk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 12:10:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/css/menu.t6y1pazxo0.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\menu.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t6y1pazxo0"},{"Name":"integrity","Value":"sha256-VfTJU1eApK9lYbVy7KuTp23YUgOb4X59AyTUkPNcfKk="},{"Name":"label","Value":"_content/AZURELease/css/menu.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1010"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VfTJU1eApK9lYbVy7KuTp23YUgOb4X59AyTUkPNcfKk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 12:10:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KsIg3uvxLDqEBFmXxNvi68kMjOsDuQsSHEIgonDIFCg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5925"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KsIg3uvxLDqEBFmXxNvi68kMjOsDuQsSHEIgonDIFCg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Mar 2025 19:45:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/css/style.mknmd8lqir.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mknmd8lqir"},{"Name":"integrity","Value":"sha256-KsIg3uvxLDqEBFmXxNvi68kMjOsDuQsSHEIgonDIFCg="},{"Name":"label","Value":"_content/AZURELease/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5925"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KsIg3uvxLDqEBFmXxNvi68kMjOsDuQsSHEIgonDIFCg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Mar 2025 19:45:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-joBpXzNCKC7PWTjSGNlpjq2fwgSxYCdb3ArRq7e1CaQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"778"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022joBpXzNCKC7PWTjSGNlpjq2fwgSxYCdb3ArRq7e1CaQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 20:45:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/index.u1jc8bcjge.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u1jc8bcjge"},{"Name":"integrity","Value":"sha256-joBpXzNCKC7PWTjSGNlpjq2fwgSxYCdb3ArRq7e1CaQ="},{"Name":"label","Value":"_content/AZURELease/html/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"778"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022joBpXzNCKC7PWTjSGNlpjq2fwgSxYCdb3ArRq7e1CaQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 20:45:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/inserimenti.8oms9dy0uu.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\inserimenti.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8oms9dy0uu"},{"Name":"integrity","Value":"sha256-OIF012mV827BhVIMDXfpSza2Jb11iZ05yE5MfVNmpak="},{"Name":"label","Value":"_content/AZURELease/html/inserimenti.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1268"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022OIF012mV827BhVIMDXfpSza2Jb11iZ05yE5MfVNmpak=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 21:08:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/inserimenti.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\inserimenti.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OIF012mV827BhVIMDXfpSza2Jb11iZ05yE5MfVNmpak="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1268"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022OIF012mV827BhVIMDXfpSza2Jb11iZ05yE5MfVNmpak=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 21:08:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/inserimento_usato.5y8cmqd0xf.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\inserimento_usato.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5y8cmqd0xf"},{"Name":"integrity","Value":"sha256-s/k94mzCJkeshMbpWfxVdU1GqqmkEKOGvT0hOVPbkoo="},{"Name":"label","Value":"_content/AZURELease/html/inserimento_usato.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4262"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022s/k94mzCJkeshMbpWfxVdU1GqqmkEKOGvT0hOVPbkoo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 14:24:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/inserimento_usato.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\inserimento_usato.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-s/k94mzCJkeshMbpWfxVdU1GqqmkEKOGvT0hOVPbkoo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4262"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022s/k94mzCJkeshMbpWfxVdU1GqqmkEKOGvT0hOVPbkoo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 14:24:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/inserimento_usato_conferma.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\inserimento_usato_conferma.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kbrivT\u002B4FiyODphobwIVUl0x3j74P5Mh3LxJDNUXpc8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1491"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022kbrivT\u002B4FiyODphobwIVUl0x3j74P5Mh3LxJDNUXpc8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 14:17:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/inserimento_usato_conferma.rtkoqbeyxh.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\inserimento_usato_conferma.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rtkoqbeyxh"},{"Name":"integrity","Value":"sha256-kbrivT\u002B4FiyODphobwIVUl0x3j74P5Mh3LxJDNUXpc8="},{"Name":"label","Value":"_content/AZURELease/html/inserimento_usato_conferma.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1491"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022kbrivT\u002B4FiyODphobwIVUl0x3j74P5Mh3LxJDNUXpc8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 14:17:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/navbar.crugvcm5xa.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\navbar.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"crugvcm5xa"},{"Name":"integrity","Value":"sha256-uM7xAbJiYr9OXyVLo32ghYH8i9Be1AKzRPcSw84MN04="},{"Name":"label","Value":"_content/AZURELease/html/navbar.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1499"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022uM7xAbJiYr9OXyVLo32ghYH8i9Be1AKzRPcSw84MN04=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 13:45:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/navbar.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\navbar.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uM7xAbJiYr9OXyVLo32ghYH8i9Be1AKzRPcSw84MN04="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1499"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022uM7xAbJiYr9OXyVLo32ghYH8i9Be1AKzRPcSw84MN04=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 13:45:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/sidebar.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\sidebar.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W856UTMq4FYWAaDzmT2EyhWjPlnw5fCSWUlco/E3hFY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3009"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022W856UTMq4FYWAaDzmT2EyhWjPlnw5fCSWUlco/E3hFY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 21:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/html/sidebar.jqagg9m4lr.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\sidebar.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jqagg9m4lr"},{"Name":"integrity","Value":"sha256-W856UTMq4FYWAaDzmT2EyhWjPlnw5fCSWUlco/E3hFY="},{"Name":"label","Value":"_content/AZURELease/html/sidebar.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3009"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022W856UTMq4FYWAaDzmT2EyhWjPlnw5fCSWUlco/E3hFY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 21:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/global.61vxg26qyt.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\global.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"61vxg26qyt"},{"Name":"integrity","Value":"sha256-WlNKCBveLisrtX87ASnrQwynIb/neRcRU3a6rxGm1XU="},{"Name":"label","Value":"_content/AZURELease/js/global.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"451"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022WlNKCBveLisrtX87ASnrQwynIb/neRcRU3a6rxGm1XU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 13:50:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/global.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\global.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WlNKCBveLisrtX87ASnrQwynIb/neRcRU3a6rxGm1XU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"451"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022WlNKCBveLisrtX87ASnrQwynIb/neRcRU3a6rxGm1XU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 13:50:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/index.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\index.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iLp4tDyWHfxYv8Gfs7sSbveeQwI0XCq6Xwea\u002Bc1JY9E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3157"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iLp4tDyWHfxYv8Gfs7sSbveeQwI0XCq6Xwea\u002Bc1JY9E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 21:18:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/index.sjccc5vhi4.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\index.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sjccc5vhi4"},{"Name":"integrity","Value":"sha256-iLp4tDyWHfxYv8Gfs7sSbveeQwI0XCq6Xwea\u002Bc1JY9E="},{"Name":"label","Value":"_content/AZURELease/js/index.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3157"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iLp4tDyWHfxYv8Gfs7sSbveeQwI0XCq6Xwea\u002Bc1JY9E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 21:18:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/inserimenti.e4cltoovqa.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\inserimenti.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e4cltoovqa"},{"Name":"integrity","Value":"sha256-ng37dZ7upaFJJy7cFBHsEjlW4FAvlvgDE\u002BnvdKj9/W8="},{"Name":"label","Value":"_content/AZURELease/js/inserimenti.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2398"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ng37dZ7upaFJJy7cFBHsEjlW4FAvlvgDE\u002BnvdKj9/W8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 21:17:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/inserimenti.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\inserimenti.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ng37dZ7upaFJJy7cFBHsEjlW4FAvlvgDE\u002BnvdKj9/W8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2398"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ng37dZ7upaFJJy7cFBHsEjlW4FAvlvgDE\u002BnvdKj9/W8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 21:17:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/inserimento_usato.iaqw284h7r.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\inserimento_usato.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iaqw284h7r"},{"Name":"integrity","Value":"sha256-Gi\u002BR4Z0xJIpiKAQOrF6bs0PS27DTtnKtCJnsuJJMlHU="},{"Name":"label","Value":"_content/AZURELease/js/inserimento_usato.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15424"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Gi\u002BR4Z0xJIpiKAQOrF6bs0PS27DTtnKtCJnsuJJMlHU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 14:31:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/inserimento_usato.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\inserimento_usato.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gi\u002BR4Z0xJIpiKAQOrF6bs0PS27DTtnKtCJnsuJJMlHU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"15424"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Gi\u002BR4Z0xJIpiKAQOrF6bs0PS27DTtnKtCJnsuJJMlHU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 14:31:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/inserimento_usato_conferma.2u5ygxy3yi.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\inserimento_usato_conferma.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2u5ygxy3yi"},{"Name":"integrity","Value":"sha256-9pkp7TjHbzGkCzdYcmIBoUKVfyxkNnW7TF/YHRp\u002B5Yo="},{"Name":"label","Value":"_content/AZURELease/js/inserimento_usato_conferma.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7834"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229pkp7TjHbzGkCzdYcmIBoUKVfyxkNnW7TF/YHRp\u002B5Yo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 14:50:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/inserimento_usato_conferma.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\inserimento_usato_conferma.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9pkp7TjHbzGkCzdYcmIBoUKVfyxkNnW7TF/YHRp\u002B5Yo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7834"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229pkp7TjHbzGkCzdYcmIBoUKVfyxkNnW7TF/YHRp\u002B5Yo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Mar 2025 14:50:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/main.7qln9ko40g.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7qln9ko40g"},{"Name":"integrity","Value":"sha256-QTkBTAEPiCCLhY5vZnaCE8/MKRwGlMNQLk051YmD3cQ="},{"Name":"label","Value":"_content/AZURELease/js/main.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3080"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022QTkBTAEPiCCLhY5vZnaCE8/MKRwGlMNQLk051YmD3cQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 15:37:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/main.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QTkBTAEPiCCLhY5vZnaCE8/MKRwGlMNQLk051YmD3cQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3080"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022QTkBTAEPiCCLhY5vZnaCE8/MKRwGlMNQLk051YmD3cQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 15:37:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/sidebar.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\sidebar.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w0L8ZJzumBs4LrYk27X3l\u002Bz72gB5Ibj2\u002BtlE2/toPOY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"783"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022w0L8ZJzumBs4LrYk27X3l\u002Bz72gB5Ibj2\u002BtlE2/toPOY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 14:24:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AZURELease/js/sidebar.rm5pmpw26q.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\sidebar.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rm5pmpw26q"},{"Name":"integrity","Value":"sha256-w0L8ZJzumBs4LrYk27X3l\u002Bz72gB5Ibj2\u002BtlE2/toPOY="},{"Name":"label","Value":"_content/AZURELease/js/sidebar.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"783"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022w0L8ZJzumBs4LrYk27X3l\u002Bz72gB5Ibj2\u002BtlE2/toPOY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Mar 2025 14:24:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

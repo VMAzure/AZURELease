@@ -1,0 +1,74 @@
+﻿/* Contenuto principale */
+#contenutoConferma {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f8f9fa;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    color: #333;
+    margin-left: 120px !important; /* fisso per sidebar */
+    padding: 1.5rem 1rem;
+}
+
+    /* Titoli */
+    #contenutoConferma h2 {
+        font-size: 1.4rem;
+        color: #00213b;
+        font-weight: 600;
+    }
+
+    #contenutoConferma h4 {
+        font-size: 1.1rem;
+        color: #00213b;
+        font-weight: 600;
+    }
+
+    /* Card dei dettagli */
+    #contenutoConferma .border {
+        background-color: #fff;
+        border-left: 4px solid #0d6efd;
+        transition: all 0.2s ease-in-out;
+        font-size: 0.85rem;
+        padding: 1rem;
+    }
+
+        #contenutoConferma .border:hover {
+            transform: scale(1.015);
+            border-left-color: #0b5ed7;
+        }
+
+    #contenutoConferma strong {
+        font-weight: 500;
+        color: #00213b;
+    }
+
+    #contenutoConferma span {
+        display: inline-block;
+        margin-top: 0.25rem;
+    }
+
+    #contenutoConferma .btn-outline-primary,
+    #contenutoConferma .btn-outline-danger {
+        min-width: 140px;
+        font-size: 0.75rem;
+        font-weight: 500;
+        padding: 0.35rem 0.75rem;
+        border-radius: 0.3rem;
+    }
+
+
+
+    /* Badge */
+    #contenutoConferma .badge {
+        font-size: 0.75rem;
+        padding: 0.35em 0.6em;
+        border-radius: 0.35rem;
+    }
+
+    /* Immagine veicolo */
+    #contenutoConferma img.img-fluid.mt-4 {
+        max-width: 800px;
+        border: 1px solid #ccc;
+        padding: 4px;
+        background: #fff;
+        border-radius: 0.5rem;
+    }

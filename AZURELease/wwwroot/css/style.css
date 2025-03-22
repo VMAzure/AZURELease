@@ -1,0 +1,254 @@
+﻿/* 🔹 Stile Generale */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    font-family: montserrat;
+}
+
+/* 🔹 Sidebar */
+.sidebar {
+    width: 250px;
+    background: #00213b;
+    color: white;
+    position: fixed;
+    height: 100vh;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 4px 0px 8px rgba(0, 0, 0, 0.1);
+}
+
+    /* 🔹 Titolo nella Sidebar */
+    .sidebar h2 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    /* 🔹 Link del menu nella sidebar */
+    .sidebar a {
+        text-decoration: none;
+        color: white;
+        display: flex; /* Per allineare l'icona e il testo */
+        align-items: center;
+        padding: 10px 15px;
+        width: 100%;
+        text-align: left;
+        transition: background 0.3s;
+        font-size: 14px; 
+        padding-left: 80px;
+        margin-bottom: 7px; /* Spazio tra le voci del menu */
+    }
+
+        /* 🔹 Spaziatura tra l'icona e il testo */
+        .sidebar a i {
+            font-size: 16px; /* Grandezza icona */
+            margin-right: 10px; /* Distanza tra icona e testo */
+        }
+
+        /* 🔹 Hover su link della sidebar */
+        .sidebar a:hover {
+            background: #005a9e;
+        }
+
+        /* 🔹 Logout separato */
+        .sidebar a:last-of-type {
+            margin-top: 75px; /* Aggiunge spazio prima del logout */
+        }
+        .sidebar a:first-of-type {
+            margin-top: 100px; /* Aumenta per abbassare il menu */
+        }
+
+    /* 🔹 Info utente sopra il footer */
+    .sidebar .user-info {
+        margin-top: auto;
+        padding: 15px;
+        text-align: center;
+        font-size: 14px;
+    }
+
+/* 🔹 Footer della Sidebar */
+.sidebar-footer {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    word-wrap: break-word;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: clip;
+}
+
+    /* 🔹 Testo nel Footer */
+    .sidebar-footer span,
+    .sidebar-footer strong {
+        display: inline;
+        max-width: 90%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: clip;
+    }
+
+    /* 🔹 Stili per "WE ❤️ Nome" */
+    .sidebar-footer .footer-text {
+        display: flex;
+        align-items: center;
+        gap: 5px; /* Spazio tra "WE" e il cuore */
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    .sidebar-footer .heart {
+        color: red;
+        font-size: 16px;
+        margin: 0;
+    }
+
+    /* 🔹 Testo del ruolo in MAIUSCOLO */
+    .sidebar-footer strong {
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+/* 🔹 Navbar */
+.topbar {
+    width: 100%;
+    height: 70px;
+    background: #00213b;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+    /* Stile del logo nella navbar */
+    .topbar h2 {
+        font-size: 24px;
+        margin: 0;
+        padding-left: 20px;
+        text-align: left;
+    }
+
+/* 🔹 Menu hamburger (default: nascosto su desktop) */
+@media screen and (max-width: 768px) {
+    .mobile-menu-icon {
+        display: block; /* Ora è visibile su mobile */
+    }
+
+    .sidebar {
+        display: none; /* Nasconde la sidebar su mobile */
+    }
+}
+
+/* 🔹 Dropdown Menu (Mobile) */
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    right: 20px;
+    top: 60px;
+    background: rgba(255, 255, 255, 0.8); /* Leggera trasparenza */
+    border: 1px solid #ddd;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    z-index: 1000;
+    transition: opacity 0.3s ease-in-out; /* Transizione fluida */
+}
+
+    .dropdown-menu a {
+        display: block;
+        padding: 12px;
+        text-decoration: none;
+        color: #00213b;
+        transition: background 0.3s;
+        font-size: 16px;
+    }
+
+        .dropdown-menu a:hover {
+            background: #ddd;
+        }
+        
+/* Stile del logo */
+.az-bold {
+    font-weight: 700; /* Bold */
+}
+
+.core-light {
+    font-weight: 300; /* Light */
+}
+
+/* 🔹 Contenuto Principale */
+.main-content {
+    margin-left: 250px;
+    margin-top: 70px;
+    padding: 20px;
+    width: calc(100% - 250px);
+}
+
+/* 🔹 Pulsanti */
+button {
+    padding: 10px 15px;
+    border: none;
+    background: #005a9e;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background 0.3s;
+    border-radius: 5px;
+}
+
+    button:hover {
+        background: #003b70;
+    }
+
+/* 🔹 Responsive */
+/* Nascondere Sidebar su Mobile */
+@media screen and (max-width: 768px) {
+    .sidebar {
+        display: none;
+    }
+
+    .topbar {
+        width: 100%;
+        left: 0;
+    }
+
+    /* 🔹 Stile del menu hamburger */
+    .mobile-menu-icon {
+        display: none;
+        font-size: 24px;
+        cursor: pointer;
+        user-select: none;
+        color: white;
+        padding: 10px; /* Aggiunge spazio per facilitare il click */
+        margin-right: 30px; /* Sposta l'icona più a sinistra */
+    }
+
+    /* 🔹 Mostra l'hamburger solo su mobile */
+    @media screen and (max-width: 768px) {
+        .mobile-menu-icon {
+            display: block; /* Ora è visibile su mobile */
+        }
+
+        .sidebar {
+            display: none; /* Nasconde la sidebar su mobile */
+        }
+    }
+
+}

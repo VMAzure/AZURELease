@@ -1,0 +1,62 @@
+﻿.content-container {
+    margin-left: 80px; /* spazio per sidebar */
+    padding-top: 40px; /* spazio sotto la navbar */
+}
+    .content-container h1 {
+        text-align: center;
+        margin-top: 40px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 28px;
+        font-weight: normal;
+        color: #00213b;
+    }
+
+.insert-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 40px;
+    margin-top: 100px;
+    flex-wrap: wrap; 
+}
+
+/* 🔹 Stile aggiornato dei riquadri */
+.insert-box {
+    width: 250px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 33, 59, 0.85);
+    color: white;
+    font-size: 14px; /* carattere più piccolo */
+    font-weight: lighter;
+    text-align: center;
+    border-radius: 0; /* spigoli vivi */
+    cursor: pointer;
+    transition: transform 0.3s, background 0.3s;
+}
+    .insert-box,
+    .insert-box p,
+    .insert-box span {
+        font-size: 14px;
+    }
+.insert-container .insert-box h2 {
+    font-size: 24px !important;
+    font-weight: lighter;
+    margin: 0;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+    .insert-container .insert-box h2 strong {
+        font-weight: bold;
+    }
+
+
+
+    /* 🔹 Effetto hover */
+    .insert-box:hover {
+        transform: scale(1.05);
+        background: #005a9e;
+    }

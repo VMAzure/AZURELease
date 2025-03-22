@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+
+    <!-- sidebar.html -->
+    <div id="sidebarMenu" class="sidebar text-white collapsed">
+
+        <ul class="nav flex-column">
+            <li class="nav-item">
+                <a href="#" class="nav-link text-white" id="toggleSidebar">
+                    <i class="fas fa-bars me-2"></i><span class="link-text">Menu</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link text-white">
+                    <i class="fas fa-store me-2"></i><span class="link-text">Vetrina</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link text-white">
+                    <i class="fas fa-cogs me-2"></i><span class="link-text">Opzioni</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link text-white">
+                    <i class="fas fa-shopping-cart me-2"></i><span class="link-text">Ordini</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link text-white" id="toggleInserimenti">
+                    <i class="fas fa-plus me-2"></i><span class="link-text">Inserimenti</span>
+                </a>
+                <ul id="inserimentiSubmenu" class="submenu d-none">
+                    <li><a href="inserimento_usato.html" class="nav-link text-white">➤ Auto Usata</a></li>
+                    <li><a href="inserimento_nuovo.html" class="nav-link text-white">➤ Auto Nuova</a></li>
+                </ul>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link text-white">
+                    <i class="fas fa-edit me-2"></i><span class="link-text">Variazioni</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="#" class="nav-link text-white">
+                    <i class="fas fa-cog me-2"></i><span class="link-text">Impostazioni</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="#" onclick="handleLogout(); return false;" class="nav-link text-white">
+                    <i class="fas fa-sign-out-alt me-2"></i><span class="link-text">Logout</span>
+                </a>
+            </li>
+        </ul>
+
+        <!-- Footer Sidebar -->
+        <div class="sidebar-footer mt-auto text-center">
+            <hr class="text-secondary">
+            <div class="footer-text">
+                <span>WE</span> <span class="text-danger">❤️</span>
+                <span id="usernameDisplay" class="text-white">...</span>
+            </div>
+            <div class="user-info mt-1">
+                <small class="text-secondary">Ruolo:</small><br />
+                <strong id="userRoleDisplay" class="text-white">...</strong>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>

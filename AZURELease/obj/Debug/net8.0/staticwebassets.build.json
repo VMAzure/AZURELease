@@ -1,0 +1,1876 @@
+{
+  "Version": 1,
+  "Hash": "XiBgZSaJiFlu0nGJyJWkqPnPH8MONKXvwFmawRrBuT0=",
+  "Source": "AZURELease",
+  "BasePath": "_content/AZURELease",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AZURELease\\wwwroot",
+      "Source": "AZURELease",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimenti.css",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "css/inserimenti#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rih3j21sve",
+      "Integrity": "jTm8Bh8gS3/rmJtuuQaUsCeT+cv5Mvpw60reQS6rKe8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\inserimenti.css"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimento_usato.css",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "css/inserimento_usato#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1djxk24yd2",
+      "Integrity": "u4MMgaxb/UjYsLbfAfYjv9uz0lovf/e79Wd3UgbRVOE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\inserimento_usato.css"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimento_usato_conferma.css",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "css/inserimento_usato_conferma#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7woo38ysdd",
+      "Integrity": "+Uic9FZ2sFSTbQN8Iw8TiPOpHx0GXet0+EEaD5n69xg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\inserimento_usato_conferma.css"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\menu.css",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "css/menu#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t6y1pazxo0",
+      "Integrity": "VfTJU1eApK9lYbVy7KuTp23YUgOb4X59AyTUkPNcfKk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\menu.css"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\style.css",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mknmd8lqir",
+      "Integrity": "KsIg3uvxLDqEBFmXxNvi68kMjOsDuQsSHEIgonDIFCg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\index.html",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "html/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u1jc8bcjge",
+      "Integrity": "joBpXzNCKC7PWTjSGNlpjq2fwgSxYCdb3ArRq7e1CaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimenti.html",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "html/inserimenti#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8oms9dy0uu",
+      "Integrity": "OIF012mV827BhVIMDXfpSza2Jb11iZ05yE5MfVNmpak=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\inserimenti.html"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimento_usato.html",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "html/inserimento_usato#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5y8cmqd0xf",
+      "Integrity": "s/k94mzCJkeshMbpWfxVdU1GqqmkEKOGvT0hOVPbkoo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\inserimento_usato.html"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimento_usato_conferma.html",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "html/inserimento_usato_conferma#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rtkoqbeyxh",
+      "Integrity": "kbrivT+4FiyODphobwIVUl0x3j74P5Mh3LxJDNUXpc8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\inserimento_usato_conferma.html"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\navbar.html",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "html/navbar#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "crugvcm5xa",
+      "Integrity": "uM7xAbJiYr9OXyVLo32ghYH8i9Be1AKzRPcSw84MN04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\navbar.html"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\sidebar.html",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "html/sidebar#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jqagg9m4lr",
+      "Integrity": "W856UTMq4FYWAaDzmT2EyhWjPlnw5fCSWUlco/E3hFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\sidebar.html"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\global.js",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "js/global#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61vxg26qyt",
+      "Integrity": "WlNKCBveLisrtX87ASnrQwynIb/neRcRU3a6rxGm1XU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\global.js"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\index.js",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "js/index#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sjccc5vhi4",
+      "Integrity": "iLp4tDyWHfxYv8Gfs7sSbveeQwI0XCq6Xwea+c1JY9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\index.js"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimenti.js",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "js/inserimenti#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e4cltoovqa",
+      "Integrity": "ng37dZ7upaFJJy7cFBHsEjlW4FAvlvgDE+nvdKj9/W8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\inserimenti.js"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimento_usato.js",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "js/inserimento_usato#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iaqw284h7r",
+      "Integrity": "Gi+R4Z0xJIpiKAQOrF6bs0PS27DTtnKtCJnsuJJMlHU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\inserimento_usato.js"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimento_usato_conferma.js",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "js/inserimento_usato_conferma#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2u5ygxy3yi",
+      "Integrity": "9pkp7TjHbzGkCzdYcmIBoUKVfyxkNnW7TF/YHRp+5Yo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\inserimento_usato_conferma.js"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\main.js",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7qln9ko40g",
+      "Integrity": "QTkBTAEPiCCLhY5vZnaCE8/MKRwGlMNQLk051YmD3cQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\sidebar.js",
+      "SourceId": "AZURELease",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\",
+      "BasePath": "_content/AZURELease",
+      "RelativePath": "js/sidebar#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rm5pmpw26q",
+      "Integrity": "w0L8ZJzumBs4LrYk27X3l+z72gB5Ibj2+tlE2/toPOY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\sidebar.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/inserimenti.css",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimenti.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTm8Bh8gS3/rmJtuuQaUsCeT+cv5Mvpw60reQS6rKe8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 08:54:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jTm8Bh8gS3/rmJtuuQaUsCeT+cv5Mvpw60reQS6rKe8="
+        }
+      ]
+    },
+    {
+      "Route": "css/inserimenti.rih3j21sve.css",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimenti.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTm8Bh8gS3/rmJtuuQaUsCeT+cv5Mvpw60reQS6rKe8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 08:54:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rih3j21sve"
+        },
+        {
+          "Name": "label",
+          "Value": "css/inserimenti.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jTm8Bh8gS3/rmJtuuQaUsCeT+cv5Mvpw60reQS6rKe8="
+        }
+      ]
+    },
+    {
+      "Route": "css/inserimento_usato.1djxk24yd2.css",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimento_usato.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u4MMgaxb/UjYsLbfAfYjv9uz0lovf/e79Wd3UgbRVOE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 11:48:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1djxk24yd2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/inserimento_usato.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u4MMgaxb/UjYsLbfAfYjv9uz0lovf/e79Wd3UgbRVOE="
+        }
+      ]
+    },
+    {
+      "Route": "css/inserimento_usato.css",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimento_usato.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u4MMgaxb/UjYsLbfAfYjv9uz0lovf/e79Wd3UgbRVOE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 11:48:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u4MMgaxb/UjYsLbfAfYjv9uz0lovf/e79Wd3UgbRVOE="
+        }
+      ]
+    },
+    {
+      "Route": "css/inserimento_usato_conferma.7woo38ysdd.css",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimento_usato_conferma.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Uic9FZ2sFSTbQN8Iw8TiPOpHx0GXet0+EEaD5n69xg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 13:01:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7woo38ysdd"
+        },
+        {
+          "Name": "label",
+          "Value": "css/inserimento_usato_conferma.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Uic9FZ2sFSTbQN8Iw8TiPOpHx0GXet0+EEaD5n69xg="
+        }
+      ]
+    },
+    {
+      "Route": "css/inserimento_usato_conferma.css",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\inserimento_usato_conferma.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Uic9FZ2sFSTbQN8Iw8TiPOpHx0GXet0+EEaD5n69xg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 13:01:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Uic9FZ2sFSTbQN8Iw8TiPOpHx0GXet0+EEaD5n69xg="
+        }
+      ]
+    },
+    {
+      "Route": "css/menu.css",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\menu.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VfTJU1eApK9lYbVy7KuTp23YUgOb4X59AyTUkPNcfKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 12:10:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VfTJU1eApK9lYbVy7KuTp23YUgOb4X59AyTUkPNcfKk="
+        }
+      ]
+    },
+    {
+      "Route": "css/menu.t6y1pazxo0.css",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\menu.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VfTJU1eApK9lYbVy7KuTp23YUgOb4X59AyTUkPNcfKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 12:10:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t6y1pazxo0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/menu.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VfTJU1eApK9lYbVy7KuTp23YUgOb4X59AyTUkPNcfKk="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsIg3uvxLDqEBFmXxNvi68kMjOsDuQsSHEIgonDIFCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 19:45:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KsIg3uvxLDqEBFmXxNvi68kMjOsDuQsSHEIgonDIFCg="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.mknmd8lqir.css",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KsIg3uvxLDqEBFmXxNvi68kMjOsDuQsSHEIgonDIFCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 19:45:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mknmd8lqir"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KsIg3uvxLDqEBFmXxNvi68kMjOsDuQsSHEIgonDIFCg="
+        }
+      ]
+    },
+    {
+      "Route": "html/index.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"joBpXzNCKC7PWTjSGNlpjq2fwgSxYCdb3ArRq7e1CaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 20:45:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-joBpXzNCKC7PWTjSGNlpjq2fwgSxYCdb3ArRq7e1CaQ="
+        }
+      ]
+    },
+    {
+      "Route": "html/index.u1jc8bcjge.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"joBpXzNCKC7PWTjSGNlpjq2fwgSxYCdb3ArRq7e1CaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 20:45:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u1jc8bcjge"
+        },
+        {
+          "Name": "label",
+          "Value": "html/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-joBpXzNCKC7PWTjSGNlpjq2fwgSxYCdb3ArRq7e1CaQ="
+        }
+      ]
+    },
+    {
+      "Route": "html/inserimenti.8oms9dy0uu.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimenti.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OIF012mV827BhVIMDXfpSza2Jb11iZ05yE5MfVNmpak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 21:08:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8oms9dy0uu"
+        },
+        {
+          "Name": "label",
+          "Value": "html/inserimenti.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OIF012mV827BhVIMDXfpSza2Jb11iZ05yE5MfVNmpak="
+        }
+      ]
+    },
+    {
+      "Route": "html/inserimenti.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimenti.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OIF012mV827BhVIMDXfpSza2Jb11iZ05yE5MfVNmpak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 21:08:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OIF012mV827BhVIMDXfpSza2Jb11iZ05yE5MfVNmpak="
+        }
+      ]
+    },
+    {
+      "Route": "html/inserimento_usato.5y8cmqd0xf.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimento_usato.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s/k94mzCJkeshMbpWfxVdU1GqqmkEKOGvT0hOVPbkoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 14:24:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5y8cmqd0xf"
+        },
+        {
+          "Name": "label",
+          "Value": "html/inserimento_usato.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s/k94mzCJkeshMbpWfxVdU1GqqmkEKOGvT0hOVPbkoo="
+        }
+      ]
+    },
+    {
+      "Route": "html/inserimento_usato.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimento_usato.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s/k94mzCJkeshMbpWfxVdU1GqqmkEKOGvT0hOVPbkoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 14:24:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s/k94mzCJkeshMbpWfxVdU1GqqmkEKOGvT0hOVPbkoo="
+        }
+      ]
+    },
+    {
+      "Route": "html/inserimento_usato_conferma.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimento_usato_conferma.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kbrivT+4FiyODphobwIVUl0x3j74P5Mh3LxJDNUXpc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 14:17:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kbrivT+4FiyODphobwIVUl0x3j74P5Mh3LxJDNUXpc8="
+        }
+      ]
+    },
+    {
+      "Route": "html/inserimento_usato_conferma.rtkoqbeyxh.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\inserimento_usato_conferma.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kbrivT+4FiyODphobwIVUl0x3j74P5Mh3LxJDNUXpc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 14:17:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtkoqbeyxh"
+        },
+        {
+          "Name": "label",
+          "Value": "html/inserimento_usato_conferma.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kbrivT+4FiyODphobwIVUl0x3j74P5Mh3LxJDNUXpc8="
+        }
+      ]
+    },
+    {
+      "Route": "html/navbar.crugvcm5xa.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\navbar.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uM7xAbJiYr9OXyVLo32ghYH8i9Be1AKzRPcSw84MN04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 13:45:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "crugvcm5xa"
+        },
+        {
+          "Name": "label",
+          "Value": "html/navbar.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uM7xAbJiYr9OXyVLo32ghYH8i9Be1AKzRPcSw84MN04="
+        }
+      ]
+    },
+    {
+      "Route": "html/navbar.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\navbar.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uM7xAbJiYr9OXyVLo32ghYH8i9Be1AKzRPcSw84MN04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 13:45:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uM7xAbJiYr9OXyVLo32ghYH8i9Be1AKzRPcSw84MN04="
+        }
+      ]
+    },
+    {
+      "Route": "html/sidebar.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\sidebar.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W856UTMq4FYWAaDzmT2EyhWjPlnw5fCSWUlco/E3hFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 21:12:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W856UTMq4FYWAaDzmT2EyhWjPlnw5fCSWUlco/E3hFY="
+        }
+      ]
+    },
+    {
+      "Route": "html/sidebar.jqagg9m4lr.html",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\html\\sidebar.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3009"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W856UTMq4FYWAaDzmT2EyhWjPlnw5fCSWUlco/E3hFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 21:12:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jqagg9m4lr"
+        },
+        {
+          "Name": "label",
+          "Value": "html/sidebar.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W856UTMq4FYWAaDzmT2EyhWjPlnw5fCSWUlco/E3hFY="
+        }
+      ]
+    },
+    {
+      "Route": "js/global.61vxg26qyt.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\global.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WlNKCBveLisrtX87ASnrQwynIb/neRcRU3a6rxGm1XU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 13:50:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61vxg26qyt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/global.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WlNKCBveLisrtX87ASnrQwynIb/neRcRU3a6rxGm1XU="
+        }
+      ]
+    },
+    {
+      "Route": "js/global.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\global.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WlNKCBveLisrtX87ASnrQwynIb/neRcRU3a6rxGm1XU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 13:50:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WlNKCBveLisrtX87ASnrQwynIb/neRcRU3a6rxGm1XU="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iLp4tDyWHfxYv8Gfs7sSbveeQwI0XCq6Xwea+c1JY9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 21:18:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iLp4tDyWHfxYv8Gfs7sSbveeQwI0XCq6Xwea+c1JY9E="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.sjccc5vhi4.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iLp4tDyWHfxYv8Gfs7sSbveeQwI0XCq6Xwea+c1JY9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 21:18:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjccc5vhi4"
+        },
+        {
+          "Name": "label",
+          "Value": "js/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iLp4tDyWHfxYv8Gfs7sSbveeQwI0XCq6Xwea+c1JY9E="
+        }
+      ]
+    },
+    {
+      "Route": "js/inserimenti.e4cltoovqa.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimenti.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ng37dZ7upaFJJy7cFBHsEjlW4FAvlvgDE+nvdKj9/W8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 21:17:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e4cltoovqa"
+        },
+        {
+          "Name": "label",
+          "Value": "js/inserimenti.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ng37dZ7upaFJJy7cFBHsEjlW4FAvlvgDE+nvdKj9/W8="
+        }
+      ]
+    },
+    {
+      "Route": "js/inserimenti.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimenti.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ng37dZ7upaFJJy7cFBHsEjlW4FAvlvgDE+nvdKj9/W8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 21:17:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ng37dZ7upaFJJy7cFBHsEjlW4FAvlvgDE+nvdKj9/W8="
+        }
+      ]
+    },
+    {
+      "Route": "js/inserimento_usato.iaqw284h7r.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimento_usato.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gi+R4Z0xJIpiKAQOrF6bs0PS27DTtnKtCJnsuJJMlHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 14:31:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iaqw284h7r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/inserimento_usato.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gi+R4Z0xJIpiKAQOrF6bs0PS27DTtnKtCJnsuJJMlHU="
+        }
+      ]
+    },
+    {
+      "Route": "js/inserimento_usato.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimento_usato.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gi+R4Z0xJIpiKAQOrF6bs0PS27DTtnKtCJnsuJJMlHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 14:31:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gi+R4Z0xJIpiKAQOrF6bs0PS27DTtnKtCJnsuJJMlHU="
+        }
+      ]
+    },
+    {
+      "Route": "js/inserimento_usato_conferma.2u5ygxy3yi.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimento_usato_conferma.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7834"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pkp7TjHbzGkCzdYcmIBoUKVfyxkNnW7TF/YHRp+5Yo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 14:50:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2u5ygxy3yi"
+        },
+        {
+          "Name": "label",
+          "Value": "js/inserimento_usato_conferma.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9pkp7TjHbzGkCzdYcmIBoUKVfyxkNnW7TF/YHRp+5Yo="
+        }
+      ]
+    },
+    {
+      "Route": "js/inserimento_usato_conferma.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\inserimento_usato_conferma.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7834"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pkp7TjHbzGkCzdYcmIBoUKVfyxkNnW7TF/YHRp+5Yo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 14:50:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9pkp7TjHbzGkCzdYcmIBoUKVfyxkNnW7TF/YHRp+5Yo="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.7qln9ko40g.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QTkBTAEPiCCLhY5vZnaCE8/MKRwGlMNQLk051YmD3cQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 15:37:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7qln9ko40g"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QTkBTAEPiCCLhY5vZnaCE8/MKRwGlMNQLk051YmD3cQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QTkBTAEPiCCLhY5vZnaCE8/MKRwGlMNQLk051YmD3cQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 15:37:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QTkBTAEPiCCLhY5vZnaCE8/MKRwGlMNQLk051YmD3cQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/sidebar.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\sidebar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w0L8ZJzumBs4LrYk27X3l+z72gB5Ibj2+tlE2/toPOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 14:24:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w0L8ZJzumBs4LrYk27X3l+z72gB5Ibj2+tlE2/toPOY="
+        }
+      ]
+    },
+    {
+      "Route": "js/sidebar.rm5pmpw26q.js",
+      "AssetFile": "C:\\Users\\valer\\source\\repos\\VMAzure\\AZURELease\\AZURELease\\wwwroot\\js\\sidebar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w0L8ZJzumBs4LrYk27X3l+z72gB5Ibj2+tlE2/toPOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Mar 2025 14:24:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rm5pmpw26q"
+        },
+        {
+          "Name": "label",
+          "Value": "js/sidebar.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w0L8ZJzumBs4LrYk27X3l+z72gB5Ibj2+tlE2/toPOY="
+        }
+      ]
+    }
+  ]
+}
